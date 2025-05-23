@@ -1,0 +1,4 @@
+Selamat guys
+
+Nama :
+{{ .Release.Name }}
